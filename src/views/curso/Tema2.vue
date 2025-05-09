@@ -1,10 +1,10 @@
 <template lang="pug">
   .curso-main-container.pb-3
-    BannerInterno(:subTitulo="'2. Título tema'")
+    BannerInterno(:subTitulo="'2. Explorando recursos didácticos para el pensamiento métrico y espacial en la primera infancia'")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
   
       #t_2_1.titulo-segundo(data-aos="flip-up")
-        h2 #[span 2.1] Subtítulo tema
+        h2 #[span 2.1] Explorando el espacio y la medida: Recursos y ambientes de aprendizaje para el desarrollo del pensamiento métrico y espacial
 
       .bg-full-width.border-top.color-primario
         .p-4.p-md-5

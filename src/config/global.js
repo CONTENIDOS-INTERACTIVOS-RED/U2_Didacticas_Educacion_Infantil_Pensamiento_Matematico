@@ -1,7 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad:
+      'Aplicación de estrategias didácticas para desarrollar los pensamientos matemáticos',
   },
   menuPrincipal: {
     menu: [
@@ -15,20 +16,37 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo:
+          'Estrategias didácticas para el pensamiento numérico en educación infantil',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Explorando el mundo con números: bases del pensamiento matemático en la primera infancia',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Descubriendo el mundo a través del juego: La clave para el desarrollo del pensamiento numérico en la infancia',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo:
+              'Diseño e implementación de estrategias didácticas para fortalecer el pensamiento numérico',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo:
+              'Selección y uso de materiales manipulativos para la enseñanza del pensamiento numérico: regletas, ábacos, bloques lógicos, entre otros.',
+            hash: 't_1_4',
           },
         ],
       },
@@ -36,47 +54,23 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'Explorando recursos didácticos para el pensamiento métrico y espacial en la primera infancia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Explorando el espacio y la medida: Recursos y ambientes de aprendizaje para el desarrollo del pensamiento métrico y espacial',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Innovación y tecnología en la enseñanza de las matemáticas en educación infantil',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Título tema',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
           },
         ],
       },
