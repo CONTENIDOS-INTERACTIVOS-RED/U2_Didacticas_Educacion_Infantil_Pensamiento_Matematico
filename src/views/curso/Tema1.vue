@@ -105,7 +105,7 @@
     .bg-full-width.bg-color-8.mb-lg-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
-          .col-lg-8
+          .col-lg-7
             h2.mb-4(data-aos="flip-up") Matemáticas en acción: Estrategias para potenciar 
             el pensamiento numérico en la primera infancia
             p.mb-4(data-aos="fade-right") Se invita a leer el documento #[strong Matemáticas en acción], donde se aborda el desarrollo del pensamiento numérico en la primera infancia desde un enfoque pedagógico integrador y basado en teorías del aprendizaje.
@@ -116,7 +116,7 @@
               .anexo__texto
                 p <strong>Anexo. </strong> Matemáticas en acción
     
-          .col-lg-4
+          .col-lg-5
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/9.png', alt='')
     
@@ -232,7 +232,7 @@
               figure
                 img(src="@/assets/curso/tema1/slide-1.png")
             .col-lg-7
-              h5 Numérico
+              h4 Numérico
               ul.lista-ul--color.color-dark.mb-4
                 li.mb-0
                   i.fas.fa-arrow-circle-right
@@ -256,7 +256,7 @@
               figure
                 img(src="@/assets/curso/tema1/slide-2.png")
             .col-lg-7
-              h5 Métrico
+              h4 Métrico
               ul.lista-ul--color.color-dark.mb-4
                 li.mb-0
                   i.fas.fa-arrow-circle-right
@@ -273,7 +273,7 @@
               figure
                 img(src="@/assets/curso/tema1/slide-3.png")
             .col-lg-7
-              h5 Espacial
+              h4 Espacial
               ul.lista-ul--color.color-dark.mb-4
                 li.mb-0
                   i.fas.fa-arrow-circle-right
@@ -290,7 +290,7 @@
               figure
                 img(src="@/assets/curso/tema1/slide-4.png")
             .col-lg-7
-              h5 Aleatorio
+              h4 Aleatorio
               ul.lista-ul--color.color-dark.mb-4
                 li.mb-0
                   i.fas.fa-arrow-circle-right
@@ -307,7 +307,7 @@
               figure
                 img(src="@/assets/curso/tema1/slide-5.png")
             .col-lg-7
-              h5 Variacional
+              h4 Variacional
               ul.lista-ul--color.color-dark.mb-4
                 li.mb-0
                   i.fas.fa-arrow-circle-right
@@ -487,6 +487,14 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://pucrs.emnuvens.com.br/porescrito/article/view/24109" target="_blank" rel="noopener noreferrer") Felicetti, V. L., & Robayo, A. P. (2016). Didáctica y pensamiento matemático en educación infantil. Educação por escrito, 7(2), 253-262.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=BG2DgyzpPgU" target="_blank" rel="noopener noreferrer") Martín, A. 2020. (2022, 2 de febrero). 6 Ideas Matemáticas OAOA: INCLUSIÓN JERÁRQUICA. CONSTRUCCIÓN DEL 2 Y EL 3. 2 febrero 2022
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=3jz9ug41gro" target="_blank" rel="noopener noreferrer") universidadurjc. (2019, 7 de mayo). Enseñanza y aprendizaje de las matemáticas. Presentación 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
