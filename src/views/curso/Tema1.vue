@@ -438,7 +438,7 @@
             p Diseñar actividades lúdicas que favorezcan la manipulación espontánea de los materiales. El juego libre o guiado estimula la curiosidad, la participación activa y el disfrute del proceso de aprendizaje.
     
           .div(titulo="Plantear desafíos y preguntas abiertas")
-            p Promover el pensamiento crítico mediante interrogantes que inviten a la reflexión, la creatividad y la búsqueda de distintas soluciones. Ejemplos: “¿De qué otra forma puedes representar esta cantidad?” o “¿Cómo sabes que tu respuesta es correcta?”
+            p Promover el pensamiento crítico mediante interrogantes que inviten a la reflexión, la creatividad y la búsqueda de distintas soluciones. Ejemplos: "¿De qué otra forma puedes representar esta cantidad?" o "¿Cómo sabes que tu respuesta es correcta?"
     
           .div(titulo="TPromover la exploración individual y grupal")
             p Ofrecer espacios donde los niños puedan experimentar de forma autónoma o en pequeños grupos, favoreciendo la cooperación, el diálogo y el intercambio de ideas y estrategias.
@@ -474,15 +474,19 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/49416" target="_blank" rel="noopener noreferrer") Cabañas Cañizares, M. R. (2015). Enseñanzas iniciales: nivel I. Ámbito de comunicación y competencia matemática. Matemáticas 2. Adquiero mi casa: (ed.). Ministerio de Educación y Formación Profesional de España.
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://revistasojs.ucaldas.edu.co/index.php/latinoamericana/article/view/8373" target="_blank" rel="noopener noreferrer") Valderrama, V. C., & Arrubla, S. R. Q. (2022). El juego como estrategia pedagógica para el desarrollo del pensamiento lógico matemático en la primera infancia. Latinoamericana de Estudios Educativos, 18(2), 221-239.
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://revistas.uva.es/index.php/edmain/article/view/5823" target="_blank" rel="noopener noreferrer") Castro, E., Cañadas, M. C., & Castro-Rodríguez, E. (2013). Pensamiento numérico en edades tempranas. Edma 0-6: Educación matemática en la infancia, 2(2), 1-11.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://pucrs.emnuvens.com.br/porescrito/article/view/24109" target="_blank" rel="noopener noreferrer") Felicetti, V. L., & Robayo, A. P. (2016). Didáctica y pensamiento matemático en educación infantil. Educação por escrito, 7(2), 253-262.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
