@@ -376,10 +376,6 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://ocu.uniovi.es/pluginfile.php/3649/mod_resource/content/1/esquema%20corporal%20y%20estructura%20y%20espacial.pdf" target="_blank" rel="noopener noreferrer") Bascón, M. A., & FÍSICA, E. (2011). La percepción corporal y espacial. Revista digital innovación y experiencias educativas, 1-8.
-
-              p.d-flex.my-4
-                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
                 a(href="https://revistascientificas.cuc.edu.co/culturaeducacionysociedad/article/view/2227" target="_blank" rel="noopener noreferrer") Pisciotti, A. P., Torres-Ospino, M., Torres-Rojas, M., Rojas-De Sánchez, N., Bastidas-Miranda, N., Vilardy-Torres, A., ... & Oliveros, Y. O. (2018). Laboratorio Ludo-Matemático, Herramienta Potenciadora Del Pensamiento Geométrico-Métrico En Preescolar. Cultura Educación Sociedad, 9(3), 521-528.
 
               p.d-flex.my-4

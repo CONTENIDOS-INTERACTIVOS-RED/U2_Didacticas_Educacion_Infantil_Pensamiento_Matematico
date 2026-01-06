@@ -440,7 +440,7 @@
           .div(titulo="Plantear desafíos y preguntas abiertas")
             p Promover el pensamiento crítico mediante interrogantes que inviten a la reflexión, la creatividad y la búsqueda de distintas soluciones. Ejemplos: "¿De qué otra forma puedes representar esta cantidad?" o "¿Cómo sabes que tu respuesta es correcta?"
     
-          .div(titulo="TPromover la exploración individual y grupal")
+          .div(titulo="Promover la exploración individual y grupal")
             p Ofrecer espacios donde los niños puedan experimentar de forma autónoma o en pequeños grupos, favoreciendo la cooperación, el diálogo y el intercambio de ideas y estrategias.
 
           .div(titulo="Acompañar con lenguaje matemático adecuado")
